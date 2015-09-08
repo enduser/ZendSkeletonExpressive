@@ -1,4 +1,17 @@
 {
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Eugeniy Shykor",
+      "alias": "Judzhin Miles",
+      "homepage": "http://msbios.com"
+    }
+  ],
+  "keywords": [
+    "framework",
+    "zf2",
+    "expressive"
+  ],
   "require": {
     "zendframework/zend-expressive": "^0.2.0",
     "aura/router": "^2.3",
